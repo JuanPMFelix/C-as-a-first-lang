@@ -27,9 +27,6 @@ int main (void)
             printf("%.2f°F = %.2f°C \n", f, r / 9);
             a = 1;
         }
-    }
+   }
     while (a == 1);
-}, pois em uma só dava erro. O computador acabava aproximando o 160/9 :(
-        printf("%.2f°F = %.2f°C \n", f, r / 9);
-    }
 }
